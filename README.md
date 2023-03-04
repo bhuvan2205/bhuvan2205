@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate coder and professional athlete.<br>Currently working as a Front-end web developer.<br>Want to grow as a Full-stack web developer.
+I'm a passionate coder and professional athlete.<br>Currently working as a Front-end web developer.<br>Moving forward as a Full-stack web developer.
 
 
 ## 🌐 Socials:
