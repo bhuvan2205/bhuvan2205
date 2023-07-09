@@ -1,6 +1,21 @@
 # 💫 About Me:
-I'm a passionate coder and professional athlete.<br>Currently working as a Front-end web developer.<br>Moving forward as a Full-stack web developer.
+👋 Hello, I'm Bhuvan!
 
+🌟 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in MERN stack. I'm excited to collaborate, learn, and contribute to innovative projects in the tech community.
+
+🔭 Currently, I'm focused on honing my skills in Full stack Javascript development, such as React, Next, Express, and exploring new tools and frameworks to stay up to date with the latest developments in the industry.
+
+💼 As an associater ui developer at altudo.co, I have hands-on experience in build real-time projects such as e-commerce, marketting, etc. I enjoy tackling challenges, solving problems, and building scalable and user-centric solutions.
+
+💡 In my journey, I'm constantly expanding my knowledge through self-guided learning and staying connected with the vibrant developer community.
+
+🌱 I'm an avid believer in continuous learning and personal growth. I'm open to new opportunities, collaborations, and mentorship, and I thrive in environments that encourage creativity, teamwork, and innovation.
+
+📫 Let's connect and collaborate! Feel free to reach out to me. I'm always excited to engage in meaningful conversations, explore potential projects, or simply share ideas.
+
+🌐 Check out my repositories to explore my projects and code contributions. I strive to maintain clean and well-documented code, and I'm keen on leveraging best practices to deliver robust and efficient solutions.
+
+📚 Besides coding, I enjoy to play cricket and do some calesthenics workouts. It's important to find a balance between work and personal life to stay motivated and creative.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhuvan.bolt.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/never__back__down_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvans2205) 
