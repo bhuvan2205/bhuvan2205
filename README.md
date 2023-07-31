@@ -7,13 +7,7 @@
 
 💼 As an associater ui developer at altudo.co, I have hands-on experience in build real-time projects such as e-commerce, marketting, etc. I enjoy tackling challenges, solving problems, and building scalable and user-centric solutions.
 
-💡 In my journey, I'm constantly expanding my knowledge through self-guided learning and staying connected with the vibrant developer community.
-
-🌱 I'm an avid believer in continuous learning and personal growth. I'm open to new opportunities, collaborations, and mentorship, and I thrive in environments that encourage creativity, teamwork, and innovation.
-
 📫 Let's connect and collaborate! Feel free to reach out to me. I'm always excited to engage in meaningful conversations, explore potential projects, or simply share ideas.
-
-🌐 Check out my repositories to explore my projects and code contributions. I strive to maintain clean and well-documented code, and I'm keen on leveraging best practices to deliver robust and efficient solutions.
 
 📚 Besides coding, I enjoy to play cricket and do some calesthenics workouts. It's important to find a balance between work and personal life to stay motivated and creative.
 
