@@ -7,9 +7,9 @@
 
 💼 As an associater ui developer at altudo.co, I have hands-on experience in build real-time projects such as e-commerce, marketting, etc. I enjoy tackling challenges, solving problems, and building scalable and user-centric solutions.
 
-📫 Let's connect and collaborate! Feel free to reach out to me. I'm always excited to engage in meaningful conversations, explore potential projects, or simply share ideas.
-
 📚 Besides coding, I enjoy to play cricket and do some calesthenics workouts. It's important to find a balance between work and personal life to stay motivated and creative.
+
+📫 Let's connect and collaborate! Feel free to reach out to me. I'm always excited to engage in meaningful conversations, explore potential projects, or simply share ideas.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhuvan.bolt.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/never__back__down_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvans2205) 
