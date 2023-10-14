@@ -5,7 +5,7 @@
 
 🔭 Currently, I'm focused on honing my skills in Full stack Javascript development, such as React, Next, Express, and exploring new tools and frameworks to stay up to date with the latest developments in the industry.
 
-💼 As an associater ui developer at altudo.co, I have hands-on experience in build real-time projects such as e-commerce, marketting, etc. I enjoy tackling challenges, solving problems, and building scalable and user-centric solutions.
+💼 As a developer, I have hands-on experience in build real-time projects such as e-commerce, marketting, etc. I enjoy tackling challenges, solving problems, and building scalable and user-centric solutions.
 
 📚 Besides coding, I enjoy to play cricket and do some calesthenics workouts. It's important to find a balance between work and personal life to stay motivated and creative.
 
